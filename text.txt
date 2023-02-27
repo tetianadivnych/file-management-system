@@ -1,0 +1,7 @@
+My name is Tetiana Divnych.
+
+This is a file for my graduation project.
+
+I need to count empty string in this file.
+
+So far there are 3 empty strings. Will my program get the same result? Let's see!
